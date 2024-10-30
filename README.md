@@ -1,2 +1,2 @@
 # OS
-Here you can see labы on the OS
+Here you can see labs on the OS
